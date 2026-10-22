@@ -1,5 +1,5 @@
 
-### CT-001 — Login com campos vazios
+### CT-001 - Login com campos vazios
 
 **Objetivo:** Verificar se o sistema permite realizar login sem preencher os campos obrigatórios.
 
